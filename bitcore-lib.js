@@ -4639,7 +4639,7 @@ addNetwork({
     prefix: 'S',
     txtimestamp: true,
     algorithm: "scrypt",
-    pubkeyhash: 0x40,
+    pubkeyhash: 0x3F,
     privatekey: 0x7D,
     scripthash: 0xcc,
     xpubkey: 0x0488b21e,
